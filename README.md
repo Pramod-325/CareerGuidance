@@ -2,4 +2,4 @@
 
 🔗 👉[Site Link](https://careerguide4u.streamlit.app/)
 
-![home](https://github.com/Pramod-325/CareerGuidance/blob/main/Screenshot%20(597).png)
+![home](https://github.com/Pramod-325/CareerGuidance/blob/main/Home.png)
